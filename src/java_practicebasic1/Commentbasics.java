@@ -1,4 +1,4 @@
-package java_practice;
+package java_practicebasic1;
 
 public class Commentbasics 
 {
