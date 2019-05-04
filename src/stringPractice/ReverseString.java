@@ -21,6 +21,6 @@ public class ReverseString
 		{
 			System.out.println("String is not pallindrome");
 		}
-	}
+	}	
 
 }
